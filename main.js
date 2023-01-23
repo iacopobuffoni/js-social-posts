@@ -78,7 +78,7 @@ for (i = 0; i < posts.length; i ++) {
                             <div class="post__footer">
                                 <div class="likes js-likes">
                                     <div class="likes__cta">
-                                        <a class="like-button  js-like-button" href="#" data-postid="${posts[i].id}">
+                                        <a class="like-button  js-like-button" href="nogo" data-postid="${posts[i].id}">
                                             <i class="like-button__icon fas fa-thumbs-up" aria-hidden="true"></i>
                                             <span class="like-button__label">Mi Piace</span>
                                         </a>
